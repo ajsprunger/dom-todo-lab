@@ -1,10 +1,14 @@
 body {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-.parent {
+/* .parent {
   text-align: center;
 }
 .parent > ul {
   display: inline-block;
-}
+} */
