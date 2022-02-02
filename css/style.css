@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+
+.parent {
+  text-align: center;
+}
+.parent > ul {
+  display: inline-block;
+}
